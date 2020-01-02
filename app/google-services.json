@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53513203006",
+    "firebase_url": "https://flistdemo-62ef9.firebaseio.com",
+    "project_id": "flistdemo-62ef9",
+    "storage_bucket": "flistdemo-62ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53513203006:android:331fb57481329fd397106f",
+        "android_client_info": {
+          "package_name": "com.shiner.flistdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53513203006-metiucr7bviraqhru4tov0f3qiaecvbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrgAb_dKLzMegtCyzTU4Wiw2uXekY8CSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53513203006-metiucr7bviraqhru4tov0f3qiaecvbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
